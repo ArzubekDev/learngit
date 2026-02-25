@@ -10,6 +10,11 @@ const page = () => {
         obcaecati molestias at est aliquam dolor alias nihil, cupiditate eius
         excepturi perspiciatis?
       </p>
+      <form >
+        <input type="text" placeholder="Title"/>
+        <input type="text" placeholder="Price"/>
+        <button>Add</button>
+      </form>
     </div>
   );
 };
